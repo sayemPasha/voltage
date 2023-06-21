@@ -1,3 +1,4 @@
 # Environments
 .env
 env/
+.env.create_your_own
