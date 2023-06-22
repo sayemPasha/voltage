@@ -2,3 +2,5 @@
 .env
 env/
 .env.create_your_own
+settings.json
+.vscode/
